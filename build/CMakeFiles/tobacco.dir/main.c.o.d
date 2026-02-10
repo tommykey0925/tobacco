@@ -1,0 +1,28 @@
+CMakeFiles/tobacco.dir/main.c.o: \
+ /home/tommykey0925/Work/tries/tobacco/main.c \
+ /nix/store/rwalsamz4246k8f1zzxa54qx7w3fbzdg-glibc-2.42-47-dev/include/stdc-predef.h \
+ /nix/store/rwalsamz4246k8f1zzxa54qx7w3fbzdg-glibc-2.42-47-dev/include/stdio.h \
+ /nix/store/rwalsamz4246k8f1zzxa54qx7w3fbzdg-glibc-2.42-47-dev/include/bits/libc-header-start.h \
+ /nix/store/rwalsamz4246k8f1zzxa54qx7w3fbzdg-glibc-2.42-47-dev/include/features.h \
+ /nix/store/rwalsamz4246k8f1zzxa54qx7w3fbzdg-glibc-2.42-47-dev/include/features-time64.h \
+ /nix/store/rwalsamz4246k8f1zzxa54qx7w3fbzdg-glibc-2.42-47-dev/include/bits/wordsize.h \
+ /nix/store/rwalsamz4246k8f1zzxa54qx7w3fbzdg-glibc-2.42-47-dev/include/bits/timesize.h \
+ /nix/store/rwalsamz4246k8f1zzxa54qx7w3fbzdg-glibc-2.42-47-dev/include/sys/cdefs.h \
+ /nix/store/rwalsamz4246k8f1zzxa54qx7w3fbzdg-glibc-2.42-47-dev/include/bits/long-double.h \
+ /nix/store/rwalsamz4246k8f1zzxa54qx7w3fbzdg-glibc-2.42-47-dev/include/gnu/stubs.h \
+ /nix/store/rwalsamz4246k8f1zzxa54qx7w3fbzdg-glibc-2.42-47-dev/include/gnu/stubs-64.h \
+ /nix/store/mjf8jlq9grydcdvyw6hb063x5c34g5gf-gcc-15.2.0/lib/gcc/x86_64-unknown-linux-gnu/15.2.0/include/stddef.h \
+ /nix/store/mjf8jlq9grydcdvyw6hb063x5c34g5gf-gcc-15.2.0/lib/gcc/x86_64-unknown-linux-gnu/15.2.0/include/stdarg.h \
+ /nix/store/rwalsamz4246k8f1zzxa54qx7w3fbzdg-glibc-2.42-47-dev/include/bits/types.h \
+ /nix/store/rwalsamz4246k8f1zzxa54qx7w3fbzdg-glibc-2.42-47-dev/include/bits/typesizes.h \
+ /nix/store/rwalsamz4246k8f1zzxa54qx7w3fbzdg-glibc-2.42-47-dev/include/bits/time64.h \
+ /nix/store/rwalsamz4246k8f1zzxa54qx7w3fbzdg-glibc-2.42-47-dev/include/bits/types/__fpos_t.h \
+ /nix/store/rwalsamz4246k8f1zzxa54qx7w3fbzdg-glibc-2.42-47-dev/include/bits/types/__mbstate_t.h \
+ /nix/store/rwalsamz4246k8f1zzxa54qx7w3fbzdg-glibc-2.42-47-dev/include/bits/types/__fpos64_t.h \
+ /nix/store/rwalsamz4246k8f1zzxa54qx7w3fbzdg-glibc-2.42-47-dev/include/bits/types/__FILE.h \
+ /nix/store/rwalsamz4246k8f1zzxa54qx7w3fbzdg-glibc-2.42-47-dev/include/bits/types/FILE.h \
+ /nix/store/rwalsamz4246k8f1zzxa54qx7w3fbzdg-glibc-2.42-47-dev/include/bits/types/struct_FILE.h \
+ /nix/store/rwalsamz4246k8f1zzxa54qx7w3fbzdg-glibc-2.42-47-dev/include/bits/types/cookie_io_functions_t.h \
+ /nix/store/rwalsamz4246k8f1zzxa54qx7w3fbzdg-glibc-2.42-47-dev/include/bits/stdio_lim.h \
+ /nix/store/rwalsamz4246k8f1zzxa54qx7w3fbzdg-glibc-2.42-47-dev/include/bits/floatn.h \
+ /nix/store/rwalsamz4246k8f1zzxa54qx7w3fbzdg-glibc-2.42-47-dev/include/bits/floatn-common.h
