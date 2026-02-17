@@ -1,3 +1,0 @@
-/home/tommykey0925/Work/tries/tobacco/build/CMakeFiles/tobacco.dir
-/home/tommykey0925/Work/tries/tobacco/build/CMakeFiles/edit_cache.dir
-/home/tommykey0925/Work/tries/tobacco/build/CMakeFiles/rebuild_cache.dir

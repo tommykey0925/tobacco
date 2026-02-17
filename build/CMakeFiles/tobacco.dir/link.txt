@@ -1,1 +1,0 @@
-/home/tommykey0925/Work/tries/tobacco/.flox/run/x86_64-linux.tobacco.dev/bin/cc -Wl,--dependency-file=CMakeFiles/tobacco.dir/link.d CMakeFiles/tobacco.dir/main.c.o -o tobacco
